@@ -151,8 +151,7 @@ for (let sayi in tekrarSayilari) {
         let tekrarEdenString = `${sayi} sayısı ${tekrarSayilari[sayi]} kere tekrar edilmiştir`;
         tekraredensayilar.push(tekrarEdenString);
     }
-}
-
+} 
 function sa() {
   console.log("Kodlar çalışıyor");
   return "as";
